@@ -1,4 +1,4 @@
-# Kafka-Zookeer-docker
+# Kafka-Zookeeper-docker
 Kafka + Zookeeper using docker with docker-compose
 
 Example to connect from `Spring` App:
